@@ -1,0 +1,2 @@
+Dependencies for Project 'Stm32', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_stm32l1xx_hd.s)(0x4FBC4FC8)(--cpu Cortex-M3 -g --apcs=interwork -I C:\Keil_v5\ARM\ARM\RV31\INC -I C:\Keil_v5\ARM\ARM\CMSIS\Include -I C:\Keil_v5\ARM\ARM\Inc\ST\STM32L1xx --list "startup_stm32l1xx_hd.lst" --xref -o "startup_stm32l1xx_hd.o" --depend "startup_stm32l1xx_hd.d")
